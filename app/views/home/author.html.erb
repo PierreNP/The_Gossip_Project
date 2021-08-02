@@ -1,0 +1,9 @@
+<h1>Bienvenue sur la page d'accueil !</h1>
+  <p>
+    <% @gossips.each do |gossip| %>
+    <p> <%= gossip.title %></p>
+    <p> <%= User.find(gossip.user_id).first_name %></p>
+    <p> <%= link_to "Détails", "gossip_only/#{gossip.id}" %>
+    <% end %>
+  </p>
+    
