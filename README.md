@@ -1,25 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Cette application a pour but de montrer les ragots partagés au sein de la communauté THP.
 
-Things you may want to cover:
+On trouve sur la page d'accueil la liste des auteurs et des titres des ragots, ainsi que des liens pour accéder aux pages de ragots uniques.
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# The_Gossip_Project
